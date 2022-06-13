@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love working out and meditating regularly.
 -->
 
-- 🔭 I’m currently working on my final year project that extensively uses GANs and Transformers.
+- 🔭 I’m currently pursuing Master of Computational Data Science at Carnegie Mellon University - School of Computer Science.
+- 🧐 I have worked with advanced Deep Learning models including GANs and Transformers as a part of my undergraduate capstone project.
 - 🌱 I’m currently learning advanced algorithms used in Big Data Analysis.
 - 🔬 I love doing research and my research interests mainly include the systematic use of Data and Artificial Intelligence in Cybersecurity and Healthcare. I have research papers accepted and published in the international journals of Elsevier, Wiley, and Inderscience.
-- 👨‍🏫 I'm the Mentor at the Coding Department of the college's official rover challenge team - DJS Antariksh. We have stood in the top three positions in the world at ERC 2020 and 2021.
+- 👨‍🏫 I have been the Mentor at the Coding Department of my undergraduate college's official rover challenge team - DJS Antariksh. We have stood in the top three positions in the world at ERC 2020 and 2021.
 - ⚡ Fun fact: I love working out at the gym and meditating regularly.
