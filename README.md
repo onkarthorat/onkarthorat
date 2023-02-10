@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing Master of Computational Data Science at Carnegie Mellon University - School of Computer Science.
 - 🧐 I have worked with advanced Deep Learning models including GANs and Transformers as a part of my undergraduate capstone project.
-- 🌱 I’m currently learning advanced algorithms used in Big Data Analysis.
-- 🔬 My research interests mainly include the systematic use of Data and Artificial Intelligence in Cybersecurity and Healthcare. I have publications in the international journals of Elsevier, Wiley, and Inderscience.
 - 👨‍🏫 I have been the Mentor at the Coding Department of my undergraduate college's official rover challenge team - DJS Antariksh. We have stood in the top three positions in the world at ERC 2020 and 2021.
 - ⚡ Fun fact: I love working out at the gym and meditating regularly.
