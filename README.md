@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently pursuing Master of Computational Data Science at Carnegie Mellon University - School of Computer Science.
-- 🧐 My interests include Deep Learning, LLMs, and VLMs.
+- 🧐 My interests include Deep Learning specifically LLMs and VLMs, NLP, and On-Device ML.
 - 👨‍🏫 I have experience working with GANs as well as Transformer based models.
 - ⚡ Fun fact: I love working out at the gym and meditating regularly.
