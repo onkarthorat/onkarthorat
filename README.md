@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently pursuing Master of Computational Data Science at Carnegie Mellon University - School of Computer Science.
-- 🧐 I have worked with advanced Deep Learning models including GANs and Transformers as a part of my undergraduate capstone project.
-- 👨‍🏫 I have been the Mentor at the Coding Department of my undergraduate college's official rover challenge team - DJS Antariksh. We have stood in the top three positions in the world at ERC 2020 and 2021.
+- 🧐 My interests include Deep Learning, LLMs, and VLMs.
+- 👨‍🏫 I have experience working with GANs as well as Transformer based models.
 - ⚡ Fun fact: I love working out at the gym and meditating regularly.
